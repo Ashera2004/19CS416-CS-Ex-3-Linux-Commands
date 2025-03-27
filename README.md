@@ -240,6 +240,9 @@ chmod <options> <permissions> <file_name>
 
 **Output:**
 
+![Screenshot from 2025-03-27 19-12-11](https://github.com/user-attachments/assets/d9bd5603-b7ac-405b-8167-40d01e8aeceb)
+
+
 ### 18. `tar` Command
 
 The `tar` command is used to create or extract archive files.
@@ -250,6 +253,9 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+
+![Screenshot from 2025-03-27 19-16-45](https://github.com/user-attachments/assets/e16f7228-596c-4940-a73a-0049e484964b)
+
 
 ### 19. `chown` Command
 
@@ -374,6 +380,9 @@ clear
 ```
 
 **Output:**
+
+![Screenshot from 2025-03-27 19-16-54](https://github.com/user-attachments/assets/ead26219-dc40-4ae9-ac3b-831aa8d4364e)
+
 
 ### 28. `mail` Command
 
