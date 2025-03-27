@@ -428,3 +428,5 @@ find <directory> -name <file_name>
 
 
 ## Result
+
+Successfully performed the series of Linux commands as specified.
